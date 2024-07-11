@@ -24,3 +24,4 @@
 
 ## Metas
 - Domninar o C!🫵🏽
+- Dominar o Java!🤏🏽
