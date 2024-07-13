@@ -36,8 +36,8 @@
 <a href="https://discord.gg/BvZhACfQ" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 
 # Repositories
-![POO]
+👉🏽[POO](https://github.com/Perezz21/Programa-o-Orientada-ao-Objeto)
 
 ### Goals
-- Domninar o C!🫵🏽
+- Dominar o C!🫵🏽
 - Dominar o Java!🤏🏽
