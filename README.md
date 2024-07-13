@@ -1,7 +1,7 @@
-## Olá! Eu sou o Pablo Ricardo 👋🏽
+## Hello! I am Pablo Ricardo 👋🏽
 
 ![Pablo GitHub stats](https://github-readme-stats.vercel.app/api?username=Perezz21&show_icons=true&theme=radical)
-## Tecnologias que eu uso no meu dia
+## Technologies that I use in my daily life
 
 <div style="display: inline_block">
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
@@ -35,6 +35,9 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://www.twitch.tv/perez02005)
 <a href="https://discord.gg/BvZhACfQ" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 
-## Metas
+# Repositories
+![POO]
+
+### Goals
 - Domninar o C!🫵🏽
 - Dominar o Java!🤏🏽
