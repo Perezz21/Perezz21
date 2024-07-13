@@ -14,7 +14,7 @@
 </div><br/>
 
 ##
-<div align="center">]
+<div align="center">
 
  👋 Hi, I’m @Perezz21 and i'm current studing Computer science on UFJ-Brazil                     
  👀 I am interested in new programming languages and mathematical calculations.            
@@ -23,6 +23,7 @@
  ⚡ Fun fact:I try to become a professional volleyball or online games player in my spare time.            
  ➡️ [linkedin](https://www.linkedin.com/in/pablo-ricardo-63a12625b/)           
  ➡️ [instagram](https://www.instagram.com/perez.slv21/)          
+ 
 </div>
 
 ##
