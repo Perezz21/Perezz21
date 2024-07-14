@@ -1,6 +1,13 @@
+<div align="center">
+  
 ## Hello! I am Pablo Ricardo 👋🏽
-
+  
 ![Pablo GitHub stats](https://github-readme-stats.vercel.app/api?username=Perezz21&show_icons=true&theme=radical)
+
+</div>
+
+<div align="center">
+  
 ## Technologies that I use in my daily life
 
 <div style="display: inline_block">
@@ -12,6 +19,8 @@
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /
 </div><br/>
+
+</div>
 
 ##
 <div align="center">
@@ -39,5 +48,5 @@
 👉🏽[POO](https://github.com/Perezz21/Programa-o-Orientada-ao-Objeto)
 
 ### Goals
-- Dominar o C!🫵🏽
-- Dominar o Java!🤏🏽
+   Dominar o C!🫵🏽            
+   Dominar o Java!🤏🏽
