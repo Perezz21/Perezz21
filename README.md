@@ -50,3 +50,5 @@
 ### Goals
    Dominar o C!🫵🏽            
    Dominar o Java!🤏🏽
+
+![Snake animation]()
