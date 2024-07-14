@@ -51,4 +51,4 @@
    Dominar o C!🫵🏽            
    Dominar o Java!🤏🏽
 
-![Snake animation]()
+![snake gif](https://github.com/Perezz21/Perezz21/blob/output/github-contribution-grid-snake.svg)
