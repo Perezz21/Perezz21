@@ -1,48 +1,67 @@
-<div align="center">
-  
-## Hello! I am Pablo Ricardo 👋🏽
-  
-![Pablo GitHub stats](https://github-readme-stats.vercel.app/api?username=Perezz21&show_icons=true&theme=radical)
 
-</div>
+# Olá! Eu sou Pablo Ricardo 👋
 
-<div align="center">
-  
-## Technologies that I use in my daily life
+🎓 Estudante de Ciência da Computação na Universidade Federal de Jataí (UFJ), na fase final da graduação.
 
-<div style="display: inline_block">
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="r" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /
-</div><br/>
+💻 Tenho interesse em Engenharia de Software, Inteligência Artificial e desenvolvimento de soluções baseadas em dados.
 
-</div>
+🤖 Atualmente, desenvolvo um projeto de TCC voltado à construção de um agente inteligente local utilizando Python e modelos de linguagem (LLMs).
 
-##
-<div align="center">
+📚 Busco constantemente aprofundar meus conhecimentos em desenvolvimento de software, inteligência artificial e tecnologias relacionadas.
 
- 👋 Hi, I’m @Perezz21 and i'm current studing Computer science on UFJ-Brazil                     
- 👀 I am interested in new programming languages and mathematical calculations.            
- 🌱 Currently, I am learning Java and C in my Computer Science course, and also studying Python on my own.            
- 📫 Reach me on pabloricardodasilva0@gmail.com          
- ⚡ Fun fact:I try to become a professional volleyball or online games player in my spare time.            
- ➡️ [linkedin](https://www.linkedin.com/in/pablo-ricardo-63a12625b/)           
- ➡️ [instagram](https://www.instagram.com/perez.slv21/)          
- 
-</div>
+## 🛠️ Tecnologias e ferramentas
 
-##
+**Linguagens**
+- Python
+- Java
+- C
+- JavaScript
+- TypeScript
 
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@pabloricardo9039)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_pablito_perez/?hl=pt-br%20)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/perez02005)
-[![Gmail]()
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://www.twitch.tv/perez02005)
-<a href="https://discord.gg/BvZhACfQ" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+**Inteligência Artificial**
+- Ollama
+- Modelos de Linguagem (LLMs)
+- Prototipagem de agentes inteligentes locais
 
-# Repositories
-👉🏽[POO](https://github.com/Perezz21/Programa-o-Orientada-ao-Objeto)
+**Desenvolvimento**
+- React
+- Next.js
+- Node.js
+
+**Banco de dados e análise**
+- SQL
+- MySQL
+- Power BI
+- Looker Studio
+
+**Ferramentas**
+- Git e GitHub
+- Docker
+
+## 🚀 Projetos em destaque
+
+### 🤖 Agente Inteligente Local — TCC
+Desenvolvimento de um agente local em Python, utilizando Ollama e modelos de linguagem, para interpretar requisições estruturadas em JSON e intermediar consultas a bancos de dados.
+
+[Repositório](https://github.com/Perezz21/Agente-Inteligente-Local)
+
+### 🧠 AnatoMatch — Plataforma Educacional
+Participação no desenvolvimento colaborativo de uma plataforma web educacional com jogos interativos voltados ao ensino de anatomia.
+
+[Repositório](https://github.com/ThiagoAKAtrist/anato-games-prototipo)
+
+### 💻 Software Educacional para Compiladores
+Aplicação web educacional para análise didática de trechos de código C, desenvolvida no contexto acadêmico.
+
+[Repositório](https://github.com/Perezz21/Software-Edu-Compiladores)
+
+## 🔬 Pesquisa acadêmica
+
+**Análise Multifractal de Irregularidades Ionosféricas no Brasil**
+
+Iniciação científica envolvendo análise multifractal e análise de Fourier aplicadas ao estudo de irregularidades ionosféricas.
+
+## 📫 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/pablo-ricardo-63a12625b/)
+- [GitHub](https://github.com/Perezz21)
