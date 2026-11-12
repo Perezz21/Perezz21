@@ -1,67 +1,63 @@
 
 # Olá! Eu sou Pablo Ricardo 👋
 
-🎓 Estudante de Ciência da Computação na Universidade Federal de Jataí (UFJ), na fase final da graduação.
+🎓 Estudante de Ciência da Computação na Universidade Federal de Jataí (UFJ).
 
-💻 Tenho interesse em Engenharia de Software, Inteligência Artificial e desenvolvimento de soluções baseadas em dados.
-
-🤖 Atualmente, desenvolvo um projeto de TCC voltado à construção de um agente inteligente local utilizando Python e modelos de linguagem (LLMs).
-
-📚 Busco constantemente aprofundar meus conhecimentos em desenvolvimento de software, inteligência artificial e tecnologias relacionadas.
+💻 Tenho interesse em Engenharia de Software e Inteligência Artificial, especialmente no desenvolvimento de aplicações, agentes inteligentes e soluções utilizando modelos de linguagem.
 
 ## 🛠️ Tecnologias e ferramentas
 
 **Linguagens**
-- Python
-- Java
-- C
-- JavaScript
-- TypeScript
 
-**Inteligência Artificial**
-- Ollama
-- Modelos de Linguagem (LLMs)
-- Prototipagem de agentes inteligentes locais
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,ts" />
+</p>
 
-**Desenvolvimento**
-- React
-- Next.js
-- Node.js
+**Desenvolvimento e banco de dados**
 
-**Banco de dados e análise**
-- SQL
-- MySQL
-- Power BI
-- Looker Studio
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mysql,docker" />
+</p>
 
 **Ferramentas**
-- Git e GitHub
-- Docker
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github" />  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg"
+     alt="Power BI"
+     height="40" /> <img src="https://cdn.simpleicons.org/ollama/FFFFFF" 
+         alt="Ollama" height="40" />
+</p>
+
+
+
 
 ## 🚀 Projetos em destaque
 
-### 🤖 Agente Inteligente Local — TCC
-Desenvolvimento de um agente local em Python, utilizando Ollama e modelos de linguagem, para interpretar requisições estruturadas em JSON e intermediar consultas a bancos de dados.
+### 🤖 [Agente Inteligente Local](https://github.com/Perezz21/Agente-Inteligente-Local)
 
-[Repositório](https://github.com/Perezz21/Agente-Inteligente-Local)
+Projeto de Trabalho de Conclusão de Curso voltado ao desenvolvimento de um agente inteligente local, utilizando modelos de linguagem para interpretar solicitações estruturadas e intermediar consultas a bancos de dados.
 
-### 🧠 AnatoMatch — Plataforma Educacional
-Participação no desenvolvimento colaborativo de uma plataforma web educacional com jogos interativos voltados ao ensino de anatomia.
+**Tecnologias:** Python, Ollama e Qwen.
 
-[Repositório](https://github.com/ThiagoAKAtrist/anato-games-prototipo)
+### 🧠 [AnatoMatch](https://github.com/ThiagoAKAtrist/anato-games-prototipo)
 
-### 💻 Software Educacional para Compiladores
-Aplicação web educacional para análise didática de trechos de código C, desenvolvida no contexto acadêmico.
+Plataforma educacional com jogos interativos voltados ao aprendizado de anatomia. Participação no desenvolvimento, com contribuições em melhorias, correções e ajustes da aplicação.
 
-[Repositório](https://github.com/Perezz21/Software-Edu-Compiladores)
+**Tecnologias:** React, Next.js, TypeScript e MySQL.
 
-## 🔬 Pesquisa acadêmica
+### 💻 [Software Educacional para Análise de Código C](https://github.com/Perezz21/Software-Edu-Compiladores)
 
-**Análise Multifractal de Irregularidades Ionosféricas no Brasil**
+Projeto acadêmico de desenvolvimento de uma aplicação educacional para análise de pequenos trechos de código C, explorando conceitos relacionados ao funcionamento de compiladores.
 
-Iniciação científica envolvendo análise multifractal e análise de Fourier aplicadas ao estudo de irregularidades ionosféricas.
+**Tecnologias:** JavaScript, TypeScript, React e Docker.
 
 ## 📫 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/pablo-ricardo-63a12625b/)
-- [GitHub](https://github.com/Perezz21)
+<p>
+  <a href="https://www.linkedin.com/in/pablo-ricardo-63a12625b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Perezz21">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
