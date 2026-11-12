@@ -28,7 +28,7 @@
  👋 Hi, I’m @Perezz21 and i'm current studing Computer science on UFJ-Brazil                     
  👀 I am interested in new programming languages and mathematical calculations.            
  🌱 Currently, I am learning Java and C in my Computer Science course, and also studying Python on my own.            
- 📫 Reach me on pablinx85@gmail.com          
+ 📫 Reach me on pabloricardodasilva0@gmail.com          
  ⚡ Fun fact:I try to become a professional volleyball or online games player in my spare time.            
  ➡️ [linkedin](https://www.linkedin.com/in/pablo-ricardo-63a12625b/)           
  ➡️ [instagram](https://www.instagram.com/perez.slv21/)          
@@ -40,7 +40,7 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@pabloricardo9039)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_pablito_perez/?hl=pt-br%20)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/perez02005)
-[![Gmail](https://mail.google.com/mail/u/2/#inbox)
+[![Gmail]()
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://www.twitch.tv/perez02005)
 <a href="https://discord.gg/BvZhACfQ" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 
